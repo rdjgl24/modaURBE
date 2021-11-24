@@ -1,0 +1,28 @@
+.logo-moda {
+  height: 100px;
+}
+
+#header {
+  background-color: #ffc9ce !important;
+}
+
+#footer {
+  background: pink;
+  margin-bottom: 0;
+}
+
+#footer img {
+  height: 50px;
+}
+
+#footer ul a {
+  text-decoration: none;
+}
+
+#footer ul a:hover {
+  text-decoration: underline;
+}
+
+p {
+  text-align: justify;
+}
